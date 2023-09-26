@@ -29,26 +29,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![image](https://github.com/JaMyraJones/ticket-lifecycle/assets/145633544/75f96800-3c71-45bf-b2cb-b10827eb0dc2)
+
+To begin utilizing this ticketing platform, the initial step is to generate a ticket.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![image](https://github.com/JaMyraJones/ticket-lifecycle/assets/145633544/2d198e83-1923-4b63-a7ca-3bac86a653af)
+
+At the moment, I am handling the ticket by adjusting its severity level and aligning the SLA accordingly. I am also assigning it to the suitable agent to ensure timely resolution.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![image](https://github.com/JaMyraJones/ticket-lifecycle/assets/145633544/5e31d46e-4a6b-4b59-bb98-b3b005012a21)
+
+Ultimately, the problem is resolved, the ticket is marked as "solved," and it is then closed out.
 </p>
 <br />
